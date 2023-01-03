@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/github/followers/under29?style=social
+[https://img.shields.io/github/followers/under29?style=social](https://img.shields.io/github/followers/under29?style=plastic)
 
 <!--
 **under29/under29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
